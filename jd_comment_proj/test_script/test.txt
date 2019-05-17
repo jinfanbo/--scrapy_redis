@@ -1,0 +1,1038 @@
+jdSearchResultBkCbAZF({
+    "retcode":"0",
+    "errmsg":"",
+    "data": {
+        "searchm":{
+            "Head":{
+                "Query":{
+                    "HcCid1s": "",
+                    "HcCid2s": "",
+                    "HcCid3s": "",
+                    "QueryProcessor":{
+                        "ExpandQueryStatus" : "",
+                        "ExpandQuery" : ""
+                    }
+                },
+                "Summary": {
+                    "OrgSkuCount": "63895",
+                    "Page": {
+                        "PageCount": "750",
+                        "PageIndex": "107",
+                        "PageSize": "10"
+                    },
+                    "ResultCount": "7500",
+                    "ResultCut": "1"
+                }
+            },
+            "Paragraph": [
+                
+                {
+                    "Content": {
+                        "author": "",
+                        "imageurl": "jfs/t15385/125/2341624142/243274/c9472ccd/5a961788Nbf863613.jpg",
+                        "long_image_url": "",
+                        "shop_name": "",
+                        "warename": "纽曼（Newman） F9 移动\x2F联通\x2F电信4G 翻盖老人手机 男 女 全网通 老年手机 移动版 玫瑰金",
+                        "CustomAttrList" : "2.8英寸",
+                        "shortWarename" : "",
+                        "gaiyawarename" : "",
+                        "extname" : "",
+                        "attr_icon_res" : ""
+                    },
+                    
+                    
+                    "catid": "655",
+                    "cid1": "9987",
+                    "cid2": "653",
+                    "commentcount": "2964",
+                    "dredisprice": "178.00",
+                    "good": "98",
+                    "hotscore": "8.",
+                    "hprice": "",
+                    "ico": "0",
+                    "productext": "-1879023488",
+                    "productext2": "33554435",
+                    "shop_id": "142434",
+                    "vender_id": "147263",
+                    "wareid": "25715541562",
+                    "discountIcon": "",
+                    "promotion_id": "",
+                    "promotion_type": "0",
+                    "couponIcon": "",
+                    "coupon":{
+                        "m": "0",
+                        "j": "0",
+                        "t": "0",
+                        "b": "0",
+                        "d": {
+                            "high": "",
+                            "info": [
+                                
+                            ]
+                        }
+                    },
+                    "pf": [
+                    
+                    ],
+                    "pfdt": {
+                        "t": "",
+                        "m": "",
+                        "j": ""
+                    },
+                    "fqy": "0",
+                    "feature_log": "",
+                    "lowestbuy": "0",
+                    "wareWeight": "500",
+                    "property_flag": "0",
+                    "flags": "4194432",
+                    "sendService": "0",
+                    "isActualServ": "0",
+                    "sku_mark": "0",
+                    "venderType": "0",
+                    "bjssy": "0",
+                    "oldWareInfo": {
+                        "old_min_price": ""
+                    },
+                    "secKill": {
+                        "status": ""
+                    },
+                    "pinGou": {
+                        "bp": "",
+                        "count": ""
+                    },
+                    "is_video": "1",
+                    "isSeptax": "",
+                    "userPsnProductNew": "1125899911037056",
+                    "freeMark": "3",
+                    "good_shop": "",
+                    "isfanbox": "",
+                    "showlog_new": "25715541562,1125899911037056,109,1,178.00,1,",
+                    "brand_id": "89010",
+                    "sxzz": "",
+                    "wareInStock": "1",
+                    "jzfp": "",
+                    "award": "",
+                    "decoration": "",
+                    "isOverSea": "",
+                    "shop_name": "致诚信达数码专营店",
+                    "isnoZY": "",
+                    "isNSNGgoods": "",
+                    "carTag": "",
+                    "isStoreOnSale": "0",
+                    "isbjp": "0"
+                },
+                
+                {
+                    "Content": {
+                        "author": "",
+                        "imageurl": "jfs/t1/17814/6/2735/184560/5c2075c3Ef8a09974/5775fff66ac54e35.jpg",
+                        "long_image_url": "",
+                        "shop_name": "",
+                        "warename": "魅族（MEIZU） V8 移动联通电信全网通4G 双卡双待 全面屏老人老年智能手机 曜黑 (4G RAM +64G ROM)",
+                        "CustomAttrList" : "4GB^64GB^5.7英寸",
+                        "shortWarename" : "魅族（MEIZU） V8",
+                        "gaiyawarename" : "魅族（MEIZU） V8",
+                        "extname" : "后置双摄|智能美颜|指纹支付",
+                        "attr_icon_res" : ""
+                    },
+                    
+                    
+                    "catid": "655",
+                    "cid1": "9987",
+                    "cid2": "653",
+                    "commentcount": "124",
+                    "dredisprice": "778.00",
+                    "good": "95",
+                    "hotscore": "8.",
+                    "hprice": "",
+                    "ico": "0",
+                    "productext": "268460032",
+                    "productext2": "41943043",
+                    "shop_id": "182802",
+                    "vender_id": "187278",
+                    "wareid": "33376099558",
+                    "discountIcon": "",
+                    "promotion_id": "",
+                    "promotion_type": "0",
+                    "couponIcon": "",
+                    "coupon":{
+                        "m": "0",
+                        "j": "0",
+                        "t": "0",
+                        "b": "0",
+                        "d": {
+                            "high": "",
+                            "info": [
+                                
+                            ]
+                        }
+                    },
+                    "pf": [
+                    
+                        "5",
+                    
+                        "57"
+                    
+                    ],
+                    "pfdt": {
+                        "t": "",
+                        "m": "",
+                        "j": ""
+                    },
+                    "fqy": "0",
+                    "feature_log": "",
+                    "lowestbuy": "0",
+                    "wareWeight": "320",
+                    "property_flag": "1",
+                    "flags": "4194432",
+                    "sendService": "0",
+                    "isActualServ": "0",
+                    "sku_mark": "0",
+                    "venderType": "1",
+                    "bjssy": "0",
+                    "oldWareInfo": {
+                        "old_min_price": ""
+                    },
+                    "secKill": {
+                        "status": ""
+                    },
+                    "pinGou": {
+                        "bp": "",
+                        "count": ""
+                    },
+                    "is_video": "",
+                    "isSeptax": "",
+                    "userPsnProductNew": "1125899911037056",
+                    "freeMark": "",
+                    "good_shop": "1",
+                    "isfanbox": "",
+                    "showlog_new": "33376099558,1125899911037056,117,0,778.00,1,",
+                    "brand_id": "12669",
+                    "sxzz": "",
+                    "wareInStock": "1",
+                    "jzfp": "",
+                    "award": "",
+                    "decoration": "",
+                    "isOverSea": "",
+                    "shop_name": "众盛手机专营店",
+                    "isnoZY": "",
+                    "isNSNGgoods": "",
+                    "carTag": "",
+                    "isStoreOnSale": "0",
+                    "isbjp": "0"
+                },
+                
+                {
+                    "Content": {
+                        "author": "",
+                        "imageurl": "jfs/t25012/2/789402233/218623/9fce0be5/5b7ba246N4b9a8752.jpg",
+                        "long_image_url": "",
+                        "shop_name": "",
+                        "warename": "魅族（MEIZU） 魅族16th 游戏手机 静夜黑 6+64G",
+                        "CustomAttrList" : "6.0英寸",
+                        "shortWarename" : "",
+                        "gaiyawarename" : "",
+                        "extname" : "屏下指纹|全面屏|液冷散热",
+                        "attr_icon_res" : ""
+                    },
+                    
+                    
+                    "catid": "655",
+                    "cid1": "9987",
+                    "cid2": "653",
+                    "commentcount": "2576",
+                    "dredisprice": "2238.00",
+                    "good": "97",
+                    "hotscore": "8.",
+                    "hprice": "",
+                    "ico": "0",
+                    "productext": "268460160",
+                    "productext2": "33554435",
+                    "shop_id": "189986",
+                    "vender_id": "196522",
+                    "wareid": "31339605478",
+                    "discountIcon": "",
+                    "promotion_id": "",
+                    "promotion_type": "0",
+                    "couponIcon": "",
+                    "coupon":{
+                        "m": "0",
+                        "j": "0",
+                        "t": "0",
+                        "b": "0",
+                        "d": {
+                            "high": "",
+                            "info": [
+                                
+                            ]
+                        }
+                    },
+                    "pf": [
+                    
+                        "5"
+                    
+                    ],
+                    "pfdt": {
+                        "t": "",
+                        "m": "",
+                        "j": ""
+                    },
+                    "fqy": "0",
+                    "feature_log": "",
+                    "lowestbuy": "0",
+                    "wareWeight": "500",
+                    "property_flag": "0",
+                    "flags": "4194432",
+                    "sendService": "0",
+                    "isActualServ": "0",
+                    "sku_mark": "0",
+                    "venderType": "0",
+                    "bjssy": "0",
+                    "oldWareInfo": {
+                        "old_min_price": ""
+                    },
+                    "secKill": {
+                        "status": ""
+                    },
+                    "pinGou": {
+                        "bp": "",
+                        "count": ""
+                    },
+                    "is_video": "1",
+                    "isSeptax": "",
+                    "userPsnProductNew": "1125899911037056",
+                    "freeMark": "3",
+                    "good_shop": "",
+                    "isfanbox": "",
+                    "showlog_new": "31339605478,1125899911037056,117,5,2238.00,1,",
+                    "brand_id": "12669",
+                    "sxzz": "",
+                    "wareInStock": "1",
+                    "jzfp": "",
+                    "award": "",
+                    "decoration": "",
+                    "isOverSea": "",
+                    "shop_name": "谷高数码手机专营店",
+                    "isnoZY": "",
+                    "isNSNGgoods": "",
+                    "carTag": "",
+                    "isStoreOnSale": "0",
+                    "isbjp": "0"
+                },
+                
+                {
+                    "Content": {
+                        "author": "",
+                        "imageurl": "jfs/t21511/259/1384211107/85058/2b38f3cb/5b275434N97a628d3.jpg",
+                        "long_image_url": "",
+                        "shop_name": "",
+                        "warename": "飞利浦（PHILIPS） E321 钢琴黑 国际品牌 时尚翻盖双屏 移动联通2G 双卡双待 老人手机 学生备用功能机",
+                        "CustomAttrList" : "2.4英寸",
+                        "shortWarename" : "飞利浦（PHILIPS） E321",
+                        "gaiyawarename" : "飞利浦（PHILIPS） E321",
+                        "extname" : "",
+                        "attr_icon_res" : ""
+                    },
+                    
+                    
+                    "catid": "655",
+                    "cid1": "9987",
+                    "cid2": "653",
+                    "commentcount": "6858",
+                    "dredisprice": "349.00",
+                    "good": "98",
+                    "hotscore": "8.",
+                    "hprice": "",
+                    "ico": "0",
+                    "productext": "808476672",
+                    "productext2": "2323644419",
+                    "shop_id": "1000013926",
+                    "vender_id": "1000013926",
+                    "wareid": "4901275",
+                    "discountIcon": "",
+                    "promotion_id": "",
+                    "promotion_type": "0",
+                    "couponIcon": "",
+                    "coupon":{
+                        "m": "980",
+                        "j": "70",
+                        "t": "1",
+                        "b": "192190834",
+                        "d": {
+                            "high": "",
+                            "info": [
+                                
+                            ]
+                        }
+                    },
+                    "pf": [
+                    
+                        "58"
+                    
+                    ],
+                    "pfdt": {
+                        "t": "",
+                        "m": "",
+                        "j": ""
+                    },
+                    "fqy": "0",
+                    "feature_log": "",
+                    "lowestbuy": "0",
+                    "wareWeight": "260",
+                    "property_flag": "0",
+                    "flags": "20975744",
+                    "sendService": "0",
+                    "isActualServ": "0",
+                    "sku_mark": "0",
+                    "venderType": "0",
+                    "bjssy": "0",
+                    "oldWareInfo": {
+                        "old_min_price": "-100"
+                    },
+                    "secKill": {
+                        "status": ""
+                    },
+                    "pinGou": {
+                        "bp": "",
+                        "count": ""
+                    },
+                    "is_video": "",
+                    "isSeptax": "",
+                    "userPsnProductNew": "1125899927818368",
+                    "freeMark": "",
+                    "good_shop": "",
+                    "isfanbox": "",
+                    "showlog_new": "4901275,1125899927818368,117,1,349.00,1,",
+                    "brand_id": "6742",
+                    "sxzz": "",
+                    "wareInStock": "1",
+                    "jzfp": "0",
+                    "award": "",
+                    "decoration": "",
+                    "isOverSea": "",
+                    "shop_name": "飞利浦手机京东自营旗舰店",
+                    "isnoZY": "",
+                    "isNSNGgoods": "",
+                    "carTag": "",
+                    "isStoreOnSale": "0",
+                    "isbjp": "0"
+                },
+                
+                {
+                    "Content": {
+                        "author": "",
+                        "imageurl": "jfs/t22798/147/1879986680/555957/d563d45c/5b6bf408Necb0e76a.jpg",
+                        "long_image_url": "",
+                        "shop_name": "",
+                        "warename": "华为（HUAWEI） 荣耀 畅玩6 全网通4G 智能老人手机 双卡双待 2G+16G 金色",
+                        "CustomAttrList" : "2GB^16GB^5.0英寸",
+                        "shortWarename" : "",
+                        "gaiyawarename" : "",
+                        "extname" : "4G老人手机|大电量",
+                        "attr_icon_res" : ""
+                    },
+                    
+                    
+                    "catid": "655",
+                    "cid1": "9987",
+                    "cid2": "653",
+                    "commentcount": "1951",
+                    "dredisprice": "519.00",
+                    "good": "99",
+                    "hotscore": "8.",
+                    "hprice": "",
+                    "ico": "0",
+                    "productext": "268460032",
+                    "productext2": "167772163",
+                    "shop_id": "750688",
+                    "vender_id": "754861",
+                    "wareid": "26009533454",
+                    "discountIcon": "",
+                    "promotion_id": "",
+                    "promotion_type": "0",
+                    "couponIcon": "",
+                    "coupon":{
+                        "m": "0",
+                        "j": "0",
+                        "t": "0",
+                        "b": "0",
+                        "d": {
+                            "high": "",
+                            "info": [
+                                
+                            ]
+                        }
+                    },
+                    "pf": [
+                    
+                    ],
+                    "pfdt": {
+                        "t": "",
+                        "m": "",
+                        "j": ""
+                    },
+                    "fqy": "0",
+                    "feature_log": "",
+                    "lowestbuy": "0",
+                    "wareWeight": "300",
+                    "property_flag": "1",
+                    "flags": "4194436",
+                    "sendService": "0",
+                    "isActualServ": "0",
+                    "sku_mark": "32",
+                    "venderType": "0",
+                    "bjssy": "0",
+                    "oldWareInfo": {
+                        "old_min_price": ""
+                    },
+                    "secKill": {
+                        "status": ""
+                    },
+                    "pinGou": {
+                        "bp": "",
+                        "count": ""
+                    },
+                    "is_video": "",
+                    "isSeptax": "",
+                    "userPsnProductNew": "1125968630513796",
+                    "freeMark": "3",
+                    "good_shop": "",
+                    "isfanbox": "",
+                    "showlog_new": "26009533454,1125968630513796,117,2,519.00,1,",
+                    "brand_id": "8557",
+                    "sxzz": "",
+                    "wareInStock": "1",
+                    "jzfp": "",
+                    "award": "",
+                    "decoration": "",
+                    "isOverSea": "",
+                    "shop_name": "千瑞达手机旗舰店",
+                    "isnoZY": "",
+                    "isNSNGgoods": "",
+                    "carTag": "",
+                    "isStoreOnSale": "0",
+                    "isbjp": "0"
+                },
+                
+                {
+                    "Content": {
+                        "author": "",
+                        "imageurl": "jfs/t18877/225/1247008043/233665/947d6cb5/5ac20473N193a9938.jpg",
+                        "long_image_url": "",
+                        "shop_name": "",
+                        "warename": "华为（HUAWEI） 华为 畅享8e 手机 金色 全网通 3G+32G",
+                        "CustomAttrList" : "3GB^32GB^5.7英寸",
+                        "shortWarename" : "",
+                        "gaiyawarename" : "",
+                        "extname" : "",
+                        "attr_icon_res" : ""
+                    },
+                    
+                    
+                    "catid": "655",
+                    "cid1": "9987",
+                    "cid2": "653",
+                    "commentcount": "990",
+                    "dredisprice": "808.00",
+                    "good": "99",
+                    "hotscore": "8.",
+                    "hprice": "",
+                    "ico": "0",
+                    "productext": "268460160",
+                    "productext2": "33554435",
+                    "shop_id": "113406",
+                    "vender_id": "116240",
+                    "wareid": "26733913069",
+                    "discountIcon": "",
+                    "promotion_id": "",
+                    "promotion_type": "0",
+                    "couponIcon": "",
+                    "coupon":{
+                        "m": "0",
+                        "j": "0",
+                        "t": "0",
+                        "b": "0",
+                        "d": {
+                            "high": "",
+                            "info": [
+                                
+                            ]
+                        }
+                    },
+                    "pf": [
+                    
+                    ],
+                    "pfdt": {
+                        "t": "",
+                        "m": "",
+                        "j": ""
+                    },
+                    "fqy": "0",
+                    "feature_log": "",
+                    "lowestbuy": "0",
+                    "wareWeight": "600",
+                    "property_flag": "0",
+                    "flags": "4194432",
+                    "sendService": "0",
+                    "isActualServ": "0",
+                    "sku_mark": "0",
+                    "venderType": "0",
+                    "bjssy": "0",
+                    "oldWareInfo": {
+                        "old_min_price": ""
+                    },
+                    "secKill": {
+                        "status": ""
+                    },
+                    "pinGou": {
+                        "bp": "",
+                        "count": ""
+                    },
+                    "is_video": "",
+                    "isSeptax": "",
+                    "userPsnProductNew": "1125968630513792",
+                    "freeMark": "3",
+                    "good_shop": "",
+                    "isfanbox": "",
+                    "showlog_new": "26733913069,1125968630513792,117,4,808.00,1,",
+                    "brand_id": "8557",
+                    "sxzz": "",
+                    "wareInStock": "1",
+                    "jzfp": "",
+                    "award": "",
+                    "decoration": "",
+                    "isOverSea": "",
+                    "shop_name": "佳沪手机旗舰店",
+                    "isnoZY": "",
+                    "isNSNGgoods": "",
+                    "carTag": "",
+                    "isStoreOnSale": "0",
+                    "isbjp": "0"
+                },
+                
+                {
+                    "Content": {
+                        "author": "",
+                        "imageurl": "jfs/t1/25991/30/4837/191503/5c35d315E49cb89ea/df337656c75ef51e.jpg",
+                        "long_image_url": "",
+                        "shop_name": "",
+                        "warename": "华为P20手机【赠5重好礼】 极光色 全网通 6G+128G",
+                        "CustomAttrList" : "6GB^128GB^5.8英寸",
+                        "shortWarename" : "华为（HUAWEI） P20",
+                        "gaiyawarename" : "华为（HUAWEI） P20",
+                        "extname" : "徕卡双摄|杜比全景声|智慧防抖",
+                        "attr_icon_res" : ""
+                    },
+                    
+                    
+                    "catid": "655",
+                    "cid1": "9987",
+                    "cid2": "653",
+                    "commentcount": "3291",
+                    "dredisprice": "3325.00",
+                    "good": "98",
+                    "hotscore": "8.",
+                    "hprice": "",
+                    "ico": "0",
+                    "productext": "268451968",
+                    "productext2": "33554435",
+                    "shop_id": "583194",
+                    "vender_id": "220891",
+                    "wareid": "28331386965",
+                    "discountIcon": "",
+                    "promotion_id": "",
+                    "promotion_type": "0",
+                    "couponIcon": "",
+                    "coupon":{
+                        "m": "0",
+                        "j": "0",
+                        "t": "0",
+                        "b": "0",
+                        "d": {
+                            "high": "",
+                            "info": [
+                                
+                            ]
+                        }
+                    },
+                    "pf": [
+                    
+                        "5"
+                    
+                    ],
+                    "pfdt": {
+                        "t": "",
+                        "m": "",
+                        "j": ""
+                    },
+                    "fqy": "0",
+                    "feature_log": "",
+                    "lowestbuy": "0",
+                    "wareWeight": "380",
+                    "property_flag": "0",
+                    "flags": "20971648",
+                    "sendService": "0",
+                    "isActualServ": "0",
+                    "sku_mark": "0",
+                    "venderType": "0",
+                    "bjssy": "0",
+                    "oldWareInfo": {
+                        "old_min_price": ""
+                    },
+                    "secKill": {
+                        "status": ""
+                    },
+                    "pinGou": {
+                        "bp": "",
+                        "count": ""
+                    },
+                    "is_video": "1",
+                    "isSeptax": "",
+                    "userPsnProductNew": "1125899927814272",
+                    "freeMark": "3",
+                    "good_shop": "",
+                    "isfanbox": "",
+                    "showlog_new": "28331386965,1125899927814272,117,5,3325.00,1,",
+                    "brand_id": "8557",
+                    "sxzz": "",
+                    "wareInStock": "1",
+                    "jzfp": "",
+                    "award": "",
+                    "decoration": "",
+                    "isOverSea": "",
+                    "shop_name": "同达丰手机旗舰店",
+                    "isnoZY": "",
+                    "isNSNGgoods": "",
+                    "carTag": "",
+                    "isStoreOnSale": "0",
+                    "isbjp": "0"
+                },
+                
+                {
+                    "Content": {
+                        "author": "",
+                        "imageurl": "jfs/t1/19517/24/3318/168174/5c259ad8E1f978420/2bc5810716717c5a.jpg",
+                        "long_image_url": "",
+                        "shop_name": "",
+                        "warename": "华为（HUAWEI） Mate10 双卡双待 商务手机 亮黑色 全网通(6G+128G)",
+                        "CustomAttrList" : "6GB^128GB^5.9英寸",
+                        "shortWarename" : "",
+                        "gaiyawarename" : "",
+                        "extname" : "",
+                        "attr_icon_res" : ""
+                    },
+                    
+                    
+                    "catid": "655",
+                    "cid1": "9987",
+                    "cid2": "653",
+                    "commentcount": "1450",
+                    "dredisprice": "3188.00",
+                    "good": "99",
+                    "hotscore": "8.",
+                    "hprice": "",
+                    "ico": "0",
+                    "productext": "268460032",
+                    "productext2": "33554435",
+                    "shop_id": "691887",
+                    "vender_id": "696032",
+                    "wareid": "22603087550",
+                    "discountIcon": "",
+                    "promotion_id": "",
+                    "promotion_type": "0",
+                    "couponIcon": "",
+                    "coupon":{
+                        "m": "0",
+                        "j": "0",
+                        "t": "0",
+                        "b": "0",
+                        "d": {
+                            "high": "",
+                            "info": [
+                                
+                            ]
+                        }
+                    },
+                    "pf": [
+                    
+                        "5",
+                    
+                        "55"
+                    
+                    ],
+                    "pfdt": {
+                        "t": "2",
+                        "m": "1999",
+                        "j": "5"
+                    },
+                    "fqy": "0",
+                    "feature_log": "",
+                    "lowestbuy": "0",
+                    "wareWeight": "585",
+                    "property_flag": "1",
+                    "flags": "20971652",
+                    "sendService": "0",
+                    "isActualServ": "0",
+                    "sku_mark": "32",
+                    "venderType": "0",
+                    "bjssy": "0",
+                    "oldWareInfo": {
+                        "old_min_price": ""
+                    },
+                    "secKill": {
+                        "status": ""
+                    },
+                    "pinGou": {
+                        "bp": "",
+                        "count": ""
+                    },
+                    "is_video": "1",
+                    "isSeptax": "",
+                    "userPsnProductNew": "1125899927814276",
+                    "freeMark": "3",
+                    "good_shop": "",
+                    "isfanbox": "",
+                    "showlog_new": "22603087550,1125899927814276,117,4,3188.00,1,",
+                    "brand_id": "8557",
+                    "sxzz": "",
+                    "wareInStock": "1",
+                    "jzfp": "",
+                    "award": "",
+                    "decoration": "",
+                    "isOverSea": "",
+                    "shop_name": "华信通手机专营店",
+                    "isnoZY": "",
+                    "isNSNGgoods": "",
+                    "carTag": "",
+                    "isStoreOnSale": "0",
+                    "isbjp": "0"
+                },
+                
+                {
+                    "Content": {
+                        "author": "",
+                        "imageurl": "jfs/t1/32104/38/10729/296562/5cb064a8Ea818d05f/3ab29e6187e275c7.jpg",
+                        "long_image_url": "",
+                        "shop_name": "",
+                        "warename": "三星（SAMSUNG） W2019 侧边指纹识别翻盖智能商务手机 睿金至尊版（6GB+128GB）",
+                        "CustomAttrList" : "",
+                        "shortWarename" : "",
+                        "gaiyawarename" : "",
+                        "extname" : "高端商务|内外双屏|快速指纹识别",
+                        "attr_icon_res" : ""
+                    },
+                    
+                    
+                    "catid": "655",
+                    "cid1": "9987",
+                    "cid2": "653",
+                    "commentcount": "83",
+                    "dredisprice": "10078.00",
+                    "good": "100",
+                    "hotscore": "8.",
+                    "hprice": "",
+                    "ico": "0",
+                    "productext": "-1879023488",
+                    "productext2": "168820739",
+                    "shop_id": "730340",
+                    "vender_id": "734718",
+                    "wareid": "37237212215",
+                    "discountIcon": "",
+                    "promotion_id": "",
+                    "promotion_type": "0",
+                    "couponIcon": "",
+                    "coupon":{
+                        "m": "0",
+                        "j": "0",
+                        "t": "0",
+                        "b": "0",
+                        "d": {
+                            "high": "",
+                            "info": [
+                                
+                            ]
+                        }
+                    },
+                    "pf": [
+                    
+                        "4",
+                    
+                        "5",
+                    
+                        "57"
+                    
+                    ],
+                    "pfdt": {
+                        "t": "",
+                        "m": "",
+                        "j": ""
+                    },
+                    "fqy": "0",
+                    "feature_log": "",
+                    "lowestbuy": "0",
+                    "wareWeight": "800",
+                    "property_flag": "0",
+                    "flags": "20971648",
+                    "sendService": "0",
+                    "isActualServ": "0",
+                    "sku_mark": "0",
+                    "venderType": "0",
+                    "bjssy": "0",
+                    "oldWareInfo": {
+                        "old_min_price": ""
+                    },
+                    "secKill": {
+                        "status": ""
+                    },
+                    "pinGou": {
+                        "bp": "",
+                        "count": ""
+                    },
+                    "is_video": "",
+                    "isSeptax": "",
+                    "userPsnProductNew": "1125899927814272",
+                    "freeMark": "3",
+                    "good_shop": "",
+                    "isfanbox": "",
+                    "showlog_new": "37237212215,1125899927814272,117,3,10078.00,1,",
+                    "brand_id": "15127",
+                    "sxzz": "",
+                    "wareInStock": "1",
+                    "jzfp": "0",
+                    "award": "",
+                    "decoration": "",
+                    "isOverSea": "",
+                    "shop_name": "炜东电商旗舰店",
+                    "isnoZY": "",
+                    "isNSNGgoods": "",
+                    "carTag": "",
+                    "isStoreOnSale": "0",
+                    "isbjp": "0"
+                },
+                
+                {
+                    "Content": {
+                        "author": "",
+                        "imageurl": "jfs/t1/28540/35/8774/74858/5c78c21dEbc5820ee/50f5783941aa879a.jpg",
+                        "long_image_url": "",
+                        "shop_name": "",
+                        "warename": "华为（HUAWEI） 畅享9 移动全网通4G智能手机 幻夜黑（4G+64G）",
+                        "CustomAttrList" : "4GB^64GB^6.26英寸",
+                        "shortWarename" : "",
+                        "gaiyawarename" : "",
+                        "extname" : "",
+                        "attr_icon_res" : ""
+                    },
+                    
+                    
+                    "catid": "655",
+                    "cid1": "9987",
+                    "cid2": "653",
+                    "commentcount": "35",
+                    "dredisprice": "1128.00",
+                    "good": "100",
+                    "hotscore": "8.",
+                    "hprice": "",
+                    "ico": "0",
+                    "productext": "-1879023616",
+                    "productext2": "33554435",
+                    "shop_id": "88118",
+                    "vender_id": "89541",
+                    "wareid": "42417909730",
+                    "discountIcon": "",
+                    "promotion_id": "",
+                    "promotion_type": "0",
+                    "couponIcon": "",
+                    "coupon":{
+                        "m": "0",
+                        "j": "0",
+                        "t": "0",
+                        "b": "0",
+                        "d": {
+                            "high": "",
+                            "info": [
+                                
+                            ]
+                        }
+                    },
+                    "pf": [
+                    
+                        "5"
+                    
+                    ],
+                    "pfdt": {
+                        "t": "",
+                        "m": "",
+                        "j": ""
+                    },
+                    "fqy": "0",
+                    "feature_log": "",
+                    "lowestbuy": "0",
+                    "wareWeight": "380",
+                    "property_flag": "1",
+                    "flags": "4194432",
+                    "sendService": "0",
+                    "isActualServ": "0",
+                    "sku_mark": "0",
+                    "venderType": "1",
+                    "bjssy": "0",
+                    "oldWareInfo": {
+                        "old_min_price": ""
+                    },
+                    "secKill": {
+                        "status": ""
+                    },
+                    "pinGou": {
+                        "bp": "",
+                        "count": ""
+                    },
+                    "is_video": "",
+                    "isSeptax": "",
+                    "userPsnProductNew": "1125899911037056",
+                    "freeMark": "",
+                    "good_shop": "",
+                    "isfanbox": "",
+                    "showlog_new": "42417909730,1125899911037056,117,3,1128.00,1,",
+                    "brand_id": "8557",
+                    "sxzz": "",
+                    "wareInStock": "1",
+                    "jzfp": "",
+                    "award": "",
+                    "decoration": "",
+                    "isOverSea": "",
+                    "shop_name": "优爱特手机旗舰店",
+                    "isnoZY": "",
+                    "isNSNGgoods": "",
+                    "carTag": "",
+                    "isStoreOnSale": "0",
+                    "isbjp": "0"
+                }
+                
+            ]
+        },
+        "adpos": {
+            "data": [
+                
+            ],
+            "csid" : "95dbee7928506ad1ce64a2917534520e_1555279488724_107_1555325132685",
+            "PosAdInfo": {
+                "event_id": "135",
+                "event_id_binary" : "10000111",
+                "platform": "mzhan"
+            }
+        },
+        "beltAdpos": [
+            
+        ],
+        "rewrite": {
+            "isWrite": "0",
+            "projid": "0",
+            "experimentid": "0",
+            "ruleid": "0",
+            "isSortWrite": "0",
+            "sortExpid": "0",
+            "sortRuleid": "0",
+            "sortCatid": "0"
+        }
+    }
+})
